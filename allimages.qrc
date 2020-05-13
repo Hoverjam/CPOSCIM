@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icos/attention2.ico</file>
+        <file>icos/tip2.ico</file>
+        <file>icos/6.ico</file>
+        <file>icos/train_462x204.png</file>
+        <file>icos/power_462x247.png</file>
+        <file>icos/model2.png</file>
+        <file>icos/model3.png</file>
+        <file>icos/model4.png</file>
+        <file>icos/check0.png</file>
+        <file>icos/check1.png</file>
+        <file>icos/check2.png</file>
+    </qresource>
+</RCC>
