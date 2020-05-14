@@ -33,6 +33,6 @@ void DialogWithOneButn::on_pushButton_clicked()
 
 void DialogWithOneButn::on_url_clicked()
 {
-    QDesktopServices::openUrl(QUrl("http://www.baidu.com"));
+    QDesktopServices::openUrl(QUrl("http://github.com/Hoverjam/CPOSCIM/releases"));
     close();
 }
