@@ -4,8 +4,8 @@ TrainTableModel::TrainTableModel(QObject *parent)
     : QAbstractTableModel(parent)
 {
     tName<<"在此开始输入";
-    tPos<<"0";
-    tCur<<"0";
+    tPos<<"";
+    tCur<<"";
 }
 
 int TrainTableModel::columnCount(const QModelIndex &parent) const
